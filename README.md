@@ -18,7 +18,7 @@ This project provides a PySpark + Streamlit-based tool for analyzing **subscribe
 ---
 
 ## ⚙️ Requirements
-- Download the data zip[https://prod-files-secure.s3.us-west-2.amazonaws.com/93077ce4-41cf-40f7-9fd2-9f32ce6032db/01d008ec-e21a-4377-9bfe-c86025aeab9e/balance-sync-logs.zip]
+- Download the data zip(https://prod-files-secure.s3.us-west-2.amazonaws.com/93077ce4-41cf-40f7-9fd2-9f32ce6032db/01d008ec-e21a-4377-9bfe-c86025aeab9e/balance-sync-logs.zip) or access here (https://calo.notion.site/Data-Engineer-Test-Task-8757782f44ad4097ba815ea06aee58cd)
 - Python 3.8+
 - [PySpark](https://spark.apache.org/docs/latest/api/python/)
 - [Streamlit](https://streamlit.io/)
